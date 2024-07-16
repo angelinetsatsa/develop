@@ -1,7 +1,7 @@
 body {
     font-family: Arial, sans-serif;
     text-align: center;
-    background-color: #f1f1f157;
+    background-color: #5d212136;
     padding: 20px;
     Margin: 0;
     display: flex;
@@ -9,7 +9,7 @@ body {
     }
   
   #weather-container {
-    background-color: rgb(255, 255, 255);
+    background-color: rgba(169, 3, 3, 0.523);
     padding: 20px;
     border-radius: 5px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
